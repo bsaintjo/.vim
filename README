@@ -1,0 +1,6 @@
+## Add to existing directory
+```
+$ git init
+$ git remote add origin https://github.com/bsaintjo/.vim.git
+$ git pull origin main
+```
